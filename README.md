@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Xcode-0652DD?style=flat-square&logo=Xcode&logoColor=white"/>&nbsp;
 <!--<img src="https://img.shields.io/badge/AWS-FFCA28?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp; -->
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wndnjs9878)](https://solved.ac/wndnjs9878)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wndnjs9878)](https://solved.ac/wndnjs9878) <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wndnjs9878)](https://github.com/anuraghazra/github-readme-stats)
 
 
