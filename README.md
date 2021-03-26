@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Xcode-0652DD?style=flat-square&logo=Xcode&logoColor=white"/>&nbsp;
 <!--<img src="https://img.shields.io/badge/AWS-FFCA28?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp; -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wndnjs9878)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wndnjs9878&theme=radical&show_icons=true)&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs9878)](https://solved.ac/wndnjs9878/)<br>
 
 
