@@ -1,9 +1,9 @@
 ### Hi there 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndnjs9878&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- Careers<br>
+- 👩🏻‍💻 Careers<br>
 [Software Maestro 12th](https://github.com/wndnjs9878)
 
-- Languages<br>
+- ⌨️ Languages and Tools<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Swift-e67e22?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-e74c3c?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
