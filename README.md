@@ -1,5 +1,14 @@
 ### Hi there 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndnjs9878&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+- Careers 👩🏻‍💻<br>
+ 2021.4-12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
+ 2021.1 CodersHigh 주관 iOS app개발 교육<br>
+ 2020.11 김해 대청고 학종 입시 캠프 멘토<br>
+ 2020.8-12 대전대신고 창의혁신 프로그램 멘토<br>
+ 2019.10 동국대학교 융합교육원 주관 거제도 대우조선해양 체험<br>
+ 2019.1 동국대학교 참사람봉사단 해외봉사 - 라오스<br>
+ 2018.1 동국대학교 글로벌 메이커 연수 프로그램 - 중국(심천)<br><br>
+
 
 - Project 📚<br>
  2018-2 교내 길찾기 웹 사이트 (웹프로그래밍)<br>
@@ -8,16 +17,6 @@
  2021.1 널'스케줄 (NUR'SCHEDULE) iOS 앱 (배포)<br>
  2021-1 <br><br>
 
-
-- Careers 👩🏻‍💻<br>
- 2021.4~12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
- 2021.1 CodersHigh 주관 iOS app개발 교육<br>
- 2020.11 김해 대청고 학종 입시 캠프 멘토<br>
- 2020.8~12 대전대신고 창의혁신 프로그램 멘토<br>
- 2019.10 동국대학교 융합교육원 주관 거제도 대우조선해양 체험<br>
- 2019.1 동국대학교 참사람봉사단 해외봉사 - 라오스<br>
- 2018.1 동국대학교 글로벌 메이커 연수 프로그램 - 중국(심천)<br><br>
- 
 
 - Awards 🏅<br>
  2019-2 동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상 수상<br><br>
@@ -41,6 +40,7 @@
 </details>
 -->
 
+<br>
 
 <!--<img src="https://img.shields.io/badge/AWS-FFCA28?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp; -->
 
