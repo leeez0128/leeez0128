@@ -17,9 +17,10 @@
  2021.1 널'스케줄(NUR'SCHEDULE) iOS 앱 배포<br>
  2021-1 <br><br>
 
-
+<!--
 - Awards 🏅<br>
  2019-2 동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상 수상<br><br>
+ -->
 
 - Languages and Tools ⚒<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
