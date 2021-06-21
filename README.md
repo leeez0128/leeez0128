@@ -1,13 +1,14 @@
 ### Hi there 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndnjs9878&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - Careers 👩🏻‍💻<br>
- 2021.4-12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
- 2021.1 CodersHigh 주관 iOS app개발 교육<br>
+ 2021.05.18,20~21 [SoMa] SAP Design Thinking Workshop <br>
+ 2021.04-12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
+ 2021.01 CodersHigh 주관 iOS app개발 교육<br>
  2020.11 김해 대청고 학종 입시 캠프 멘토<br>
- 2020.8-12 대전대신고 창의혁신 프로그램 멘토<br>
+ 2020.08-12 대전대신고 창의혁신 프로그램 멘토<br>
  2019.10 동국대학교 융합교육원 주관 거제도 대우조선해양 체험<br>
- 2019.1 동국대학교 참사람봉사단 해외봉사 - 라오스<br>
- 2018.1 동국대학교 글로벌 메이커 연수 프로그램 - 중국(심천)<br><br>
+ 2019.01 동국대학교 참사람봉사단 해외봉사 - 라오스<br>
+ 2018.01 동국대학교 글로벌 메이커 연수 프로그램 - 중국 심천<br><br>
 
 
 - Project 📚<br>
