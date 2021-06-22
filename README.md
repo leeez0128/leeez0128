@@ -1,7 +1,7 @@
 ### Hi there 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndnjs9878&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - Careers 👩🏻‍💻<br>
- 2021.05.18,20~21 [SoMa] SAP Design Thinking Workshop <br>
+ 2021.05.18,20~21 [SoMa] [SAP Design Thinking Workshop](https://github.com/wndnjs9878/wndnjs9878/issues/1) <br>
  2021.04-12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
  2021.01 CodersHigh 주관 iOS app개발 교육<br>
  2020.11 김해 대청고 학종 입시 캠프 멘토<br>
