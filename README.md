@@ -3,7 +3,7 @@
 - Careers 👩🏻‍💻<br>
  2021.05.18,20~21 [SoMa SAP Design Thinking Workshop](https://github.com/wndnjs9878/wndnjs9878/issues/1) <br>
  2021.04-12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
- 2021.01 CodersHigh 주관 iOS app개발 교육<br>
+ 2021.01 [CodersHigh 주관 iOS app개발 교육](https://github.com/wndnjs9878/wndnjs9878/issues/2)<br>
  <!--
  2020.11 김해 대청고 학종 입시 캠프 멘토<br>
  2020.08-12 대전대신고 창의혁신 프로그램 멘토<br>
