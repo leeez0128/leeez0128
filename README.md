@@ -9,13 +9,16 @@
  2018.01 동국대학교 DGU 여성메이커사업단 글로벌 메이커연수 프로그램(중국 심천)<br><br>
  
  - Awards 🏅<br>
- 2019-2 [동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상](https://github.com/wndnjs9878/wndnjs9878/issues/4)<br>
+ 2019-2 [동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상](https://github.com/wndnjs9878/wndnjs9878/issues/4)<br><br>
+ 
+- Certification 📃
+ 2020.08 정보처리기사
  <!--
  2020.11 김해 대청고 학종 입시 캠프 멘토<br>
  2019.10 동국대학교 융합교육원 주관 거제도 대우조선해양 체험<br>
  
 
-
+- Certification
 - Project 📚<br>
  2018-2 교내 길찾기 웹 사이트 <br>
  2019-1 OCR-based Illegal Advertising Block Application <br>
