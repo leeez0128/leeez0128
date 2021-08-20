@@ -1,4 +1,5 @@
-### Hi there 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndnjs9878&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there 👋 &nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndnjs9878&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - Careers 👩🏻‍💻<br>
  2021.05.18,20~21 [SoMa SAP Design Thinking Workshop](https://github.com/wndnjs9878/wndnjs9878/issues/1) <br>
@@ -13,6 +14,7 @@
  
 - Certification 📃<br>
  2020.08 정보처리기사
+ 
  <!--
  2020.11 김해 대청고 학종 입시 캠프 멘토<br>
  2019.10 동국대학교 융합교육원 주관 거제도 대우조선해양 체험<br>
@@ -49,6 +51,7 @@
 -->
 
 <br>
+
 
 <!--<img src="https://img.shields.io/badge/AWS-FFCA28?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp; -->
 
