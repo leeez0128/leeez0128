@@ -4,12 +4,16 @@
  2021.05.18,20~21 [SoMa SAP Design Thinking Workshop](https://github.com/wndnjs9878/wndnjs9878/issues/1) <br>
  2021.04-12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
  2021.01 [CodersHigh 주관 iOS app개발 교육](https://github.com/wndnjs9878/wndnjs9878/issues/2)<br>
+ 2020.08-12 [대전대신고 창의혁신 프로젝트 멘토](https://github.com/wndnjs9878/wndnjs9878/issues/3)<br>
+ 2019.01 [동국대학교 참사람봉사단 해외봉사 14기](http://volunteers.dongguk.edu)<br>
+ 2018.01 동국대학교 DGU 여성메이커사업단 글로벌 메이커연수 프로그램(중국 심천)<br><br>
+ 
+ - Awards 🏅<br>
+ 2019-2 [동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상](https://github.com/wndnjs9878/wndnjs9878/issues/4)<br>
  <!--
  2020.11 김해 대청고 학종 입시 캠프 멘토<br>
- 2020.08-12 대전대신고 창의혁신 프로그램 멘토<br>
  2019.10 동국대학교 융합교육원 주관 거제도 대우조선해양 체험<br>
- 2019.01 동국대학교 참사람봉사단 해외봉사 - 라오스<br>
- 2018.01 동국대학교 글로벌 메이커 연수 프로그램 - 중국 심천<br><br>
+ 
 
 
 - Project 📚<br>
@@ -19,8 +23,7 @@
  2021.1 널'스케줄(NUR'SCHEDULE) iOS 앱 배포<br>
  2021-1 <br><br>
 
-- Awards 🏅<br>
- 2019-2 동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상 수상<br><br>
+
  -->
 
 - Languages and Tools ⚒<br>
