@@ -33,8 +33,9 @@
 
 - Languages and Tools ⚒<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Swift-e67e22?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-e74c3c?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Swift-e67e22?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS-fd79a8?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Mysql-0984e3?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp;
