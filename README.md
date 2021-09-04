@@ -1,5 +1,4 @@
 ### Hi there 👋 &nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndnjs9878&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - Careers 👩🏻‍💻<br>
  2021.05.18,20~21 [SoMa SAP Design Thinking Workshop](https://github.com/wndnjs9878/wndnjs9878/issues/1) <br>
@@ -13,7 +12,7 @@
  2019-2 [동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상](https://github.com/wndnjs9878/wndnjs9878/issues/4)<br><br>
  
 - Certification 📃<br>
- 2020.08 정보처리기사
+ 2020.08 정보처리기사<br><br>
  
  <!--
  2020.11 김해 대청고 학종 입시 캠프 멘토<br>
@@ -55,7 +54,7 @@
 
 <!--<img src="https://img.shields.io/badge/AWS-FFCA28?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp; -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wndnjs9878&theme=radical&show_icons=true)&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeez0128&theme=radical&show_icons=true)&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs9878)](https://solved.ac/wndnjs9878/)<br>
 
 
