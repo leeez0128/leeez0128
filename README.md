@@ -1,8 +1,8 @@
 ### Hi there 👋 &nbsp;
 
 - Careers 👩🏻‍💻<br>
- 2021.05.18,20~21 [SoMa SAP Design Thinking Workshop](https://github.com/wndnjs9878/wndnjs9878/issues/1) <br>
  2021.04-12 [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do#firstPage)<br>
+ 2021.05.18,20~21 [SoMa SAP Design Thinking Workshop](https://github.com/wndnjs9878/wndnjs9878/issues/1) <br>
  2021.01 [CodersHigh 주관 iOS app개발 교육](https://github.com/wndnjs9878/wndnjs9878/issues/2)<br>
  2020.08-12 [대전대신고 창의혁신 프로젝트 멘토](https://github.com/wndnjs9878/wndnjs9878/issues/3)<br>
  2019.01 [동국대학교 참사람봉사단 해외봉사 14기](http://volunteers.dongguk.edu)<br>
@@ -12,11 +12,12 @@
  2019-2 [동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상](https://github.com/wndnjs9878/wndnjs9878/issues/4)<br><br>
  
  - Project 📚<br>
- 2018-2 교내 길찾기 웹 사이트 <br>
- 2019-1 OCR-based Illegal Advertising Block Application <br>
- 2019-2 교내 iSpace 좌석관리 웹 사이트 <br>
+ 2021-06~ 스마트 홈트레이닝 서비스, HomeBody <br>
  2021.1 널'스케줄(NUR'SCHEDULE) iOS 앱 배포<br>
- 2021-06~ 스마트 홈트레이닝 서비스, HomeBody <br><br>
+ 2019-2 교내 iSpace 좌석관리 웹 사이트 <br>
+ 2019-1 OCR-based Illegal Advertising Block Application <br>
+ 2018-2 교내 길찾기 웹 사이트 <br><br>
+
 <!--2021.09-12 온라인 강의 노트 및 요약 서비스 -->
  
 - Certification 📃<br>
