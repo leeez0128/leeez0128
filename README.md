@@ -12,7 +12,9 @@
  2019-2 [동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상](https://github.com/wndnjs9878/wndnjs9878/issues/4)<br><br>
  
  - Project 📚<br>
- 2021-06~ 스마트 홈트레이닝 서비스, HomeBody <br>
+ 2021.06~ 스마트 홈트레이닝 서비스, HomeBody <br>
+ 2021.05.13~14 다양한 운동 자세를 사용하여 점수를 얻는 간단한 운동 게임 프로그램, 홈피트 <br>
+ 2021.04.19~30 카카오워크 챗봇게임, 소마 2033 <br>
  2021.1 널'스케줄(NUR'SCHEDULE) iOS 앱 배포<br>
  2019-2 교내 iSpace 좌석관리 웹 사이트 <br>
  2019-1 OCR-based Illegal Advertising Block Application <br>
