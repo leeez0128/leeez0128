@@ -6,7 +6,7 @@
  2021.01 [CodersHigh 주관 iOS app개발 교육](https://github.com/wndnjs9878/wndnjs9878/issues/2)<br>
  2020.08-12 [대전대신고 창의혁신 프로젝트 멘토](https://github.com/wndnjs9878/wndnjs9878/issues/3)<br>
  2019.01 [동국대학교 참사람봉사단 해외봉사 14기](http://volunteers.dongguk.edu)<br>
- 2018.01 동국대학교 DGU 여성메이커사업단 글로벌 메이커연수 프로그램(중국 심천)<br><br>
+ 2018.01 동국대학교 여성메이커사업단 글로벌 메이커연수 프로그램(중국 심천)<br><br>
  
  - Awards 🏅<br>
  2019-2 [동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상](https://github.com/wndnjs9878/wndnjs9878/issues/4)<br><br>
