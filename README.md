@@ -2,16 +2,53 @@
 <hr/>
 <details open>
 <summary>Careers 👩🏻‍💻</summary>
-<div markdown="1">       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.04-12 <a href="https://www.swmaestro.org/sw/main/main.do#firstPage">Software Maestro 12th</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.05.18,20~21 <a href="https://github.com/wndnjs9878/wndnjs9878/issues/1">SoMa SAP Design Thinking Workshop</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.01 <a href="https://github.com/wndnjs9878/wndnjs9878/issues/2">CodersHigh 주관 iOS app개발 교육</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020.08-12 <a href="https://github.com/wndnjs9878/wndnjs9878/issues/3">대전대신고 창의혁신 프로젝트 멘토</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020.11 <a href="">김해 대청고 학종 입시 캠프 멘토</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.11 <a href="">동국대학교 융합교육원 주관 거제도 대우조선해양 체험</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.01 <a href="http://volunteers.dongguk.edu">동국대학교 참사람봉사단 해외봉사 14기</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018.01 <a href="">동국대학교 여성메이커사업단 글로벌 메이커연수 프로그램</a><br>
-</div>
+  <ol>
+  <details open>
+  <summary>2021</summary>
+	  <ol>
+     - <a href="https://www.swmaestro.org/sw/main/main.do#firstPage">Software Maestro 12th</a>
+    </ol>
+    <ol>
+     - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/1">SoMa SAP Design Thinking Workshop</a>
+    </ol>
+    <ol>
+     - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/2">CodersHigh 주관 iOS app개발 교육</a>
+    </ol>
+  </details>
+ </ol>
+  
+ <ol>
+  <details open>
+  <summary>2020</summary>
+	  <ol>
+     - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/3">대전대신고 창의혁신 프로젝트 멘토</a>
+    </ol>
+    <ol>
+     - <a href="">김해 대청고 학종 입시 캠프 멘토</a>
+    </ol>
+  </details>
+ </ol>
+    
+ <ol>
+  <details open>
+  <summary>2019</summary>
+	  <ol>
+     - <a href="">동국대학교 융합교육원 주관 거제도 대우조선해양 체험</a>
+    </ol>
+    <ol>
+     - <a href="http://volunteers.dongguk.edu">동국대학교 참사람봉사단 해외봉사 14기</a>
+    </ol>
+  </details>
+ </ol>
+  
+ <ol>
+  <details open>
+  <summary>2019</summary>
+	  <ol>
+     - <a href="">동국대학교 여성메이커사업단 글로벌 메이커연수 프로그램</a>
+    </ol>
+  </details>
+ </ol>
 </details>
 <br>
 
@@ -20,25 +57,39 @@
  <ol>
   <details open>
   <summary>2021</summary>
-  &nbsp;&nbsp;&nbsp;- <a href="https://play.google.com/store/apps/details?id=com.fitbuddy.homebody">스마트 홈트레이닝 서비스, HomeBody</a> <br>
-  &nbsp;&nbsp;&nbsp;- 다양한 운동 자세를 사용하여 점수를 얻는 간단한 운동 게임 프로그램, 홈피트 <br>
-  &nbsp;&nbsp;&nbsp;- 카카오워크 챗봇게임, 소마 2033 <br>
-  &nbsp;&nbsp;&nbsp;- 널'스케줄(NUR'SCHEDULE) iOS App <br>
+	  <ol>
+     - <a href="https://play.google.com/store/apps/details?id=com.fitbuddy.homebody">스마트 홈트레이닝 서비스, HomeBody</a>
+    </ol>
+    <ol>
+     - 다양한 운동 자세를 사용하여 점수를 얻는 간단한 운동 게임 프로그램, 홈피트
+    </ol>
+    <ol>
+     - 카카오워크 챗봇게임, 소마 2033
+    </ol>
+    <ol>
+     - 널'스케줄(NUR'SCHEDULE) iOS App
+    </ol>
   </details>
  </ol>
  
  <ol>
   <details>
   <summary>2019</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 교내 iSpace 좌석관리 웹 사이트 <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- OCR-based Illegal Advertising Block Application <br>
+    <ol>
+      - 교내 iSpace 좌석관리 웹 사이트
+    </ol>
+    <ol>
+      - OCR-based Illegal Advertising Block Application
+    </ol>
   </details>
  </ol>
  
  <ol>
  <details>
  <summary>2018</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 교내 길찾기 웹 사이트<br>
+   <ol>
+      - 교내 길찾기 웹 사이트
+   </ol>
  </details>
  </ol>
 </details>
