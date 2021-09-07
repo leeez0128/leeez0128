@@ -2,7 +2,7 @@
 <hr/>
 <details open>
 <summary>Careers 👩🏻‍💻</summary>
-  <ol>
+ <ol>
   <details open>
   <summary>2021</summary>
 	  <ol>
@@ -95,45 +95,44 @@
 </details>
 <br>
 
-<details>
+<details open>
 <summary>Certification 📃</summary>
-<div markdown="1">       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.08 정보처리기사<br>
-</div>
+  <ol>
+    - 정보처리기사(2021)
+	</ol>
 </details>
 <br>
 
 <details>
 <summary>Awards 🏆</summary>
-<div markdown="1">       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019-2 <a href="https://github.com/wndnjs9878/wndnjs9878/issues/4">동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상</a><br>
-</div>
+  <ol>
+    - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/4">동국대학교 교수학습개발센터 주관 협동학습 프로그램 ‘DoDream 학습동아리’ 장려상</a>(2019)
+  </ol>
 </details>
 <br>
 
 <details open>
 <summary>Languages and Tools 🛠</summary>
-<div markdown="1">
-<br>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java-e74c3c?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Swift-e67e22?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS3-fd79a8?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;
-<br>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Xcode-0652DD?style=flat-square&logo=Xcode&logoColor=white"/>&nbsp;&nbsp;
-</div>
+  <br>
+  <ol>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Java-e74c3c?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Swift-e67e22?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-fd79a8?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Xcode-0652DD?style=flat-square&logo=Xcode&logoColor=white"/>&nbsp;&nbsp;
+  </ol>
 </details>
 <br>
 
