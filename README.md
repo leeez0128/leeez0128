@@ -18,7 +18,7 @@
  </ol>
   
  <ol>
-  <details open>
+  <details>
   <summary>2020</summary>
 	  <ol>
      - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/3">대전대신고 창의혁신 프로젝트 멘토</a>
@@ -30,7 +30,7 @@
  </ol>
     
  <ol>
-  <details open>
+  <details>
   <summary>2019</summary>
 	  <ol>
      - <a href="">동국대학교 융합교육원 주관 거제도 대우조선해양 체험</a>
@@ -42,8 +42,8 @@
  </ol>
   
  <ol>
-  <details open>
-  <summary>2019</summary>
+  <details>
+  <summary>2018</summary>
 	  <ol>
      - <a href="">동국대학교 여성메이커사업단 글로벌 메이커연수 프로그램</a>
     </ol>
