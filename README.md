@@ -98,8 +98,9 @@
 <details open>
 <summary>Certification 📃</summary>
   <ol>
-    - 정보처리기사(2021)
-	</ol>
+    - 정보처리기사(2021 한국산업인력공단) <br>
+    - 리눅스 마스터 2급 1차(2021 한국정보통신진흥협회(KAIT))
+  </ol>
 </details>
 <br>
 
