@@ -1,7 +1,5 @@
 ### Hi there 👋 &nbsp; <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeez0128&show_icons=true&theme=dracula)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeez0128&layout=compact)](https://github.com/leeez0128/github-readme-stats)<br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeez0128&show_icons=true&theme=dracula)<br>
 
 <hr/>
 <details open>
@@ -145,7 +143,9 @@
 <!--<img src="https://img.shields.io/badge/AWS-FFCA28?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp; -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeez0128)](https://solved.ac/leeez0128/)&nbsp;
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs9878)](https://solved.ac/wndnjs9878/)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs9878)](https://solved.ac/wndnjs9878/)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeez0128&layout=compact)](https://github.com/leeez0128/github-readme-stats)<br>
+
 
 
 
