@@ -1,5 +1,6 @@
-### Hi there 👋 &nbsp; <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeez0128&show_icons=true&theme=dracula)<br>
+### Hi there 👋 &nbsp;
+<img width="130" src="https://user-images.githubusercontent.com/48276633/147467345-2ef9fa7b-4bd8-409b-97ce-1770c8d0883d.png">
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeez0128&show_icons=true&theme=dracula)<br> -->
 
 <hr/>
 <details open>
@@ -11,10 +12,10 @@
      - <a href="https://www.swmaestro.org/sw/main/main.do#firstPage">Software Maestro 12th</a>
     </ol>
     <ol>
-     - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/1">SoMa SAP Design Thinking Workshop</a>
+     - <a href="https://github.com/leeez0128/leeez0128/issues/1">SoMa SAP Design Thinking Workshop</a>
     </ol>
     <ol>
-     - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/2">CodersHigh 주관 iOS app개발 교육</a>
+     - <a href="https://github.com/leeez0128/leeez0128/issues/2">CodersHigh 주관 iOS app개발 교육</a>
     </ol>
   </details>
  </ol>
@@ -23,7 +24,7 @@
   <details>
   <summary>2020</summary>
 	  <ol>
-     - <a href="https://github.com/wndnjs9878/wndnjs9878/issues/3">대전대신고 창의혁신 프로젝트 멘토</a>
+     - <a href="https://github.com/leeez0128/leeez0128/issues/3">대전대신고 창의혁신 프로젝트 멘토</a>
     </ol>
     <ol>
      - <a href="">김해 대청고 학종 입시 캠프 멘토</a>
@@ -55,53 +56,11 @@
 <br>
 
 <details open>
-	<summary>Project 📚</summary>
- <ol>
-  <details open>
-  <summary>2021</summary>
-	  <ol>
-     - <a href="https://play.google.com/store/apps/details?id=com.fitbuddy.homebody">스마트 홈트레이닝 서비스, HomeBody</a>
-    </ol>
-    <ol>
-     - 다양한 운동 자세를 사용하여 점수를 얻는 간단한 운동 게임 프로그램, 홈피트
-    </ol>
-    <ol>
-     - 카카오워크 챗봇게임, 소마 2033
-    </ol>
-    <ol>
-     - 널'스케줄(NUR'SCHEDULE) iOS App
-    </ol>
-  </details>
- </ol>
- 
- <ol>
-  <details>
-  <summary>2019</summary>
-    <ol>
-      - 교내 iSpace 좌석관리 웹 사이트
-    </ol>
-    <ol>
-      - OCR-based Illegal Advertising Block Application
-    </ol>
-  </details>
- </ol>
- 
- <ol>
- <details>
- <summary>2018</summary>
-   <ol>
-      - 교내 길찾기 웹 사이트
-   </ol>
- </details>
- </ol>
-</details>
-<br>
-
-<details open>
 <summary>Certification 📃</summary>
   <ol>
-    - 정보처리기사(2021 한국산업인력공단) <br>
-    - 리눅스 마스터 2급 1차(2021 한국정보통신진흥협회(KAIT))
+    - <a href="https://github.com/leeez0128/leeez0128/issues/5">AWS Certified Solutions Architect - Associate (SAA)</a> <br>
+    - 정보처리기사, 한국산업인력공단 <br>
+    - 리눅스 마스터 2급 1차, 한국정보통신진흥협회(KAIT)
   </ol>
 </details>
 <br>
@@ -144,17 +103,13 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeez0128)](https://solved.ac/leeez0128/)&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs9878)](https://solved.ac/wndnjs9878/)&nbsp; -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeez0128&layout=compact)](https://github.com/leeez0128/github-readme-stats)<br>
-
-
-
 
 
 
 
 
 <!--
-**wndnjs9878/wndnjs9878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leeez0128/leeez0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
