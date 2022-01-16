@@ -9,7 +9,7 @@
   <details open>
   <summary>2021</summary>
 	  <ol>
-     - <a href="https://www.swmaestro.org/sw/main/main.do#firstPage">Software Maestro 12th</a>
+     - <a href="https://www.swmaestro.org/sw/singl/projectIntc/list.do?menuNo=200013">Software Maestro 12th</a>
     </ol>
     <ol>
      - <a href="https://github.com/leeez0128/leeez0128/issues/1">SoMa SAP Design Thinking Workshop</a>
