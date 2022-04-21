@@ -7,6 +7,15 @@
 <summary>Careers 👩🏻‍💻</summary>
  <ol>
   <details open>
+  <summary>2022</summary>
+	  <ol>
+     - <a href="https://www.cantabile.tech">'원하는 곡으로 원하는 방식으로, 칸타빌레'</a> 창업(과학기술정보통신부 지속성장사업 선정)
+    </ol>
+  </details>
+ </ol>
+    
+ <ol> 
+  <details>
   <summary>2021</summary>
 	  <ol>
      - <a href="https://www.swmaestro.org/sw/singl/projectIntc/list.do?menuNo=200013">Software Maestro 12th</a>
