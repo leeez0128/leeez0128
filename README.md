@@ -8,8 +8,11 @@
  <ol>
   <details open>
   <summary>2022</summary>
+  <ol>
+     - <a href="https://thinkme.co.kr">'건강한 마음으로 첫 걸음. 모두의 심리상담, 싱크미'</a> 창업멤버(과학기술정보통신부 2022 지속성장사업 선정)
+    </ol>
 	  <ol>
-     - <a href="https://www.cantabile.tech">'원하는 곡으로 원하는 방식으로, 칸타빌레'</a> 창업(과학기술정보통신부 지속성장사업 선정)
+     - <a href="https://www.cantabile.tech">'원하는 곡으로 원하는 방식으로, 칸타빌레'</a> 창업(과학기술정보통신부 2022 지속성장사업 선정)
     </ol>
   </details>
  </ol>
