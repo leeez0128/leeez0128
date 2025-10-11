@@ -1,13 +1,20 @@
 ### Hi there 👋 &nbsp;
-<img width="130" src="https://user-images.githubusercontent.com/48276633/147467345-2ef9fa7b-4bd8-409b-97ce-1770c8d0883d.png">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeez0128&show_icons=true&theme=dracula)<br> -->
 
-<hr/>
 <details open>
 <summary>Careers 👩🏻‍💻</summary>
  <ol>
   <details open>
-  <summary>2022</summary>
+  <summary>2024~</summary>
+  <ol>
+     - <a href="https://www.hyundai-autoever.com/kor/main/index.do">Hyundai Autoever</a> Solution Architect
+    </ol>
+  </details>
+ </ol>
+	
+ <ol>
+  <details>
+  <summary>2022~2023</summary>
   <ol>
      - <a href="https://thinkme.co.kr">'건강한 마음으로 첫 걸음. 모두의 심리상담, 싱크미'</a> 창업멤버(과학기술정보통신부 2022 지속성장사업 선정)
     </ol>
@@ -70,7 +77,10 @@
 <details open>
 <summary>Certification 📃</summary>
   <ol>
-    - <a href="https://github.com/leeez0128/leeez0128/issues/5">AWS Certified Solutions Architect - Associate (SAA)</a> <br>
+	- AWS Certified Advanced Networking - Specialty <br>
+	- AWS Certified SysOps Administrator - Associate <br>
+    - AWS Certified Solutions Architect - Professional <br>
+	- AWS Certified Solutions Architect - Associate <br>  
     - 정보처리기사, 한국산업인력공단 <br>
     - 리눅스 마스터 2급 1차, 한국정보통신진흥협회(KAIT)
   </ol>
@@ -95,7 +105,6 @@
     <img src="https://img.shields.io/badge/Swift-e67e22?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-fd79a8?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>&nbsp;&nbsp;
@@ -103,8 +112,6 @@
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Xcode-0652DD?style=flat-square&logo=Xcode&logoColor=white"/>&nbsp;&nbsp;
   </ol>
 </details>
